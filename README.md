@@ -6,6 +6,6 @@ Project to demonstrate a Immutable queue creation.
 
 In order to run the project and tests, please, execute the class `Application.java`.
 
-##Author
+## Author
 
 * [Rodrigo Chibana](http://github.com/rchibana)
